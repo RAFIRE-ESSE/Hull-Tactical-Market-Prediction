@@ -4,6 +4,9 @@ This repository contains a structured collection of experimental models designed
 
 ---
 
+https://www.kaggle.com/code/mafiosoquasar/hull-starter-notebook/notebook
+https://www.kaggle.com/competitions/hull-tactical-market-prediction
+
 ## **Project Architecture Overview**
 
 The architecture of the notebook is built around a modular, multi-model experimentation framework. Each model follows a similar structure but implements its own feature engineering, data-handling logic, and prediction formulation.
